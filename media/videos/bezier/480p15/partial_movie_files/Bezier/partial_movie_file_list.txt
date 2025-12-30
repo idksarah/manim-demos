@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/sangji/repos/manim-demos/media/videos/bezier/480p15/partial_movie_files/Bezier/1584795214_3629815106_223132457.mp4'
+file 'file:/home/sangji/repos/manim-demos/media/videos/bezier/480p15/partial_movie_files/Bezier/4072820271_4107627884_604059881.mp4'
+file 'file:/home/sangji/repos/manim-demos/media/videos/bezier/480p15/partial_movie_files/Bezier/4072820271_2165201883_1404869901.mp4'
+file 'file:/home/sangji/repos/manim-demos/media/videos/bezier/480p15/partial_movie_files/Bezier/4072820271_1245216585_3956941654.mp4'
